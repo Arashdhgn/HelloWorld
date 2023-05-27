@@ -54,3 +54,7 @@ in order to do that we need permission, and we use SSH keys to do that.
 6. Make a Pull request
 
 ## Git Branching
+1. use git ranck command to check the branches we have already
+2. use git checkout -b 'name' to create a new branch
+3. git checkout 'name' is used to move between branches
+4. for example this text was added in the 'addtext branch'
