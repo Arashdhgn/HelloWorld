@@ -1,9 +1,9 @@
 # Hello World
-Just a sample repo to get familiar wuth github
+Just a sample repo to get familiar with GitHub
 
 plus It's also fun to re-write the  old 'Hello World' code.
 
-If you are checking my github to assess my coding skills, please dont put this directory in account.
+If you are checking my GitHub to assess my coding skills, please don't put this directory in account.
 
 BTW happy to start working with GitHub.
 
@@ -56,14 +56,23 @@ in order to do that we need permission, and we use SSH keys to do that.
 ## Git Branching
 branching is used to change your code in a sandbox environment
 
-then when its done we can merge it back to your main branch
+then when it's done we can merge it back to your main branch
 
-hotfix branch is a branch of code that is made for a quick cahnge or a quick bug fix
+hotfix branch is a branch of code that is made for a quick change or a quick bug fix
 1. use git branch command to check the branches we have already
 2. use git checkout -b 'name' to create a new branch
 3. git checkout 'name' is used to move between branches
 
 for example this text was added in the 'addtext branch'
-4. now I we can merge the branches into the main branch
+4. now we can merge the branches into the main branch
 5. but  first we may want to compare the files using git diff 'other branch name' command
-6. 
+6. we can use git merge but the more common way is to use pull requests
+
+A pull request is when we want to pull our code into the main branch from the feature branch
+
+so when we make a pull request we can still make changes and comments but when the merge is complete our feature branch is destroyed
+7. Write a pretty good comment
+8. then merge the pull request
+9. after that we need to pull down the changes from GitHub into our local machine using git pull origin 'branch name'
+10. delete the feature branch using git branch -d 'branch name'
+11. 
