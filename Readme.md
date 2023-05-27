@@ -54,11 +54,16 @@ in order to do that we need permission, and we use SSH keys to do that.
 6. Make a Pull request
 
 ## Git Branching
-1. use git ranck command to check the branches we have already
+branching is used to change your code in a sandbox environment
+
+then when its done we can merge it back to your main branch
+
+hotfix branch is a branch of code that is made for a quick cahnge or a quick bug fix
+1. use git branch command to check the branches we have already
 2. use git checkout -b 'name' to create a new branch
 3. git checkout 'name' is used to move between branches
 
 for example this text was added in the 'addtext branch'
 4. now I we can merge the branches into the main branch
-5. but  first we may want to compare the files using git diff command
+5. but  first we may want to compare the files using git diff 'other branch name' command
 6. 
