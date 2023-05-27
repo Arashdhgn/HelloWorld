@@ -57,4 +57,8 @@ in order to do that we need permission, and we use SSH keys to do that.
 1. use git ranck command to check the branches we have already
 2. use git checkout -b 'name' to create a new branch
 3. git checkout 'name' is used to move between branches
-4. for example this text was added in the 'addtext branch'
+
+for example this text was added in the 'addtext branch'
+4. now I we can merge the branches into the main branch
+5. but  first we may want to compare the files using git diff command
+6. 
