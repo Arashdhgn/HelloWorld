@@ -54,12 +54,3 @@ in order to do that we need permission, and we use SSH keys to do that.
 6. Make a Pull request
 
 ## Git Branching
-branching is used to change your code in a sandbox environment 
-
-then when its done we can merge it back to your main branch
-
-hotfix branch is a branch of code that is made for a quick cahnge or a quick bug fix
-
-1. use git branch command to check the branches we have already
-2. use git checkout -b 'name' to create a new branch
-3. git checkout 'name' is used to move between branches
