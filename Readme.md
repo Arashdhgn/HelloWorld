@@ -79,3 +79,4 @@ so when we make a pull request we can still make changes and comments but when t
 10. delete the feature branch using git branch -d 'branch name'
 11. to be updated with main (master) branch, use git merge main on the feature branch
 12. we may face conflicts that we can fix in the IDE or any other place like GITHUB
+
