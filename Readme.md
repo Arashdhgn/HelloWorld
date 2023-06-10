@@ -86,4 +86,3 @@ so when we make a pull request we can still make changes and comments but when t
 1. we can undo our changes on GIT if me made a mistake
 2. we can easily undo with git rest filename
 3. if you want to undo the last commit use git reset HEAD
-4. here I add some wrong text and reset it dfhjofighghdosfgogf
