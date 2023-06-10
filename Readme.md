@@ -77,6 +77,12 @@ so when we make a pull request we can still make changes and comments but when t
 8. then merge the pull request
 9. after that we need to pull down the changes from GitHub into our local machine using git pull origin 'branch name'
 10. delete the feature branch using git branch -d 'branch name'
-11. to be updated with main (master) branch, use git merge main on the feature branch
+11. to keep up to date with main (master) branch, use git merge main on the feature branch
 12. we may face conflicts that we can fix in the IDE or any other place like GITHUB
 
+* you can use git rm filename to remove a file from your git repo
+
+## undoing in GIT
+1. we can undo our changes on GIT if me made a mistake
+2. we can easily undo with git rest filename
+3. if you want to undo the last commit use git reset HEAD
