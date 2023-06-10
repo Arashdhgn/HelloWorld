@@ -77,5 +77,5 @@ so when we make a pull request we can still make changes and comments but when t
 8. then merge the pull request
 9. after that we need to pull down the changes from GitHub into our local machine using git pull origin 'branch name'
 10. delete the feature branch using git branch -d 'branch name'
-11. to keep up to date with main branch, use git merge main
-12. 
+11. to keep up to date with main branch, use git merge main on the feature branch
+12. we may face conflicts that we can fix in the IDE or any other place like GITHUB
