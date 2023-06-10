@@ -12,8 +12,8 @@ BTW happy to start working with GitHub.
 2. use add file => create new file to create a markdown file
 3. make some changes to check the changes using the commits option
 4. use add file => upload files to add my python file to the repo
-5. use git clone to clone + URL to clone the repo on my local machine to be able to modify it localy
-6. use git status to see the status of the files that where modified but not commited
+5. use git clone to clone + URL to clone the repo on my local machine to be able to modify it locally
+6. use git status to see the status of the files that where modified but not committed
 7. use git add command  to make git track the newly added, modified or deleted files which are not tracked by the git repo
 8. use git commit -m "sample massage" to commit the changes into the repo
 
@@ -86,4 +86,10 @@ so when we make a pull request we can still make changes and comments but when t
 1. we can undo our changes on GIT if me made a mistake
 2. we can easily undo with git rest filename
 3. if you want to undo the last commit use git reset HEAD
-4. dogjsdorghrshgsgs
+4. use git reset --hard (head/commit code) to completely wipe the changes
+
+## Forking
+1. Forking means to copy a whole repository in order to gain access, make changes and moe
+2. to fork we use the fork key in the GitHub interface
+3. after the forking is complete its basically another repository in your library where you can do anything you want to it
+* you probably don't want to fork your own code, because you already have everything you want here
