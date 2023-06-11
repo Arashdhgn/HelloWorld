@@ -93,3 +93,7 @@ so when we make a pull request we can still make changes and comments but when t
 2. to fork we use the fork key in the GitHub interface
 3. after the forking is complete its basically another repository in your library where you can do anything you want to it
 * you probably don't want to fork your own code, because you already have everything you want here
+
+##Extras
+1. git log --oneline gives you a summurized log of commits
+2. git revert commit code makes you go back to a certain commit
